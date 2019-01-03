@@ -19,3 +19,6 @@
 [submodule "heatmap"]
 	path = heatmap
 	url = git@github.com:mpg-age-bioinformatics/shiny-heatmap
+[submodule "mds"]
+	path = mds
+	url = git@github.com:mpg-age-bioinformatics/shiny-mds
