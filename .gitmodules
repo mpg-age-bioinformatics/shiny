@@ -10,3 +10,6 @@
 [submodule "cellplot"]
 	path = cellplot
 	url = git@github.com:mpg-age-bioinformatics/shiny-cellplot
+[submodule "david"]
+	path = david
+	url = git@github.com:mpg-age-bioinformatics/shiny-david
