@@ -13,3 +13,6 @@
 [submodule "david"]
 	path = david
 	url = git@github.com:mpg-age-bioinformatics/shiny-david
+[submodule "dendogram"]
+	path = dendogram
+	url = git@github.com:mpg-age-bioinformatics/shiny-dendogram
