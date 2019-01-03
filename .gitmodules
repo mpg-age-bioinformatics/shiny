@@ -28,3 +28,6 @@
 [submodule "scatterplot"]
 	path = scatterplot
 	url = git@github.com:mpg-age-bioinformatics/shiny-scatterplot
+[submodule "tsne"]
+	path = tsne
+	url = git@github.com:mpg-age-bioinformatics/shiny-tsne
