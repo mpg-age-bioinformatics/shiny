@@ -25,3 +25,6 @@
 [submodule "pca"]
 	path = pca
 	url = git@github.com:mpg-age-bioinformatics/shiny-pca
+[submodule "scatterplot"]
+	path = scatterplot
+	url = git@github.com:mpg-age-bioinformatics/shiny-scatterplot
