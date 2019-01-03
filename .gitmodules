@@ -16,3 +16,6 @@
 [submodule "dendogram"]
 	path = dendogram
 	url = git@github.com:mpg-age-bioinformatics/shiny-dendogram
+[submodule "heatmap"]
+	path = heatmap
+	url = git@github.com:mpg-age-bioinformatics/shiny-heatmap
