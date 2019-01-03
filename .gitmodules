@@ -22,3 +22,6 @@
 [submodule "mds"]
 	path = mds
 	url = git@github.com:mpg-age-bioinformatics/shiny-mds
+[submodule "pca"]
+	path = pca
+	url = git@github.com:mpg-age-bioinformatics/shiny-pca
