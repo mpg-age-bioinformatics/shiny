@@ -1,3 +1,9 @@
 [submodule "histogram"]
 	path = histogram
 	url = git@github.com:mpg-age-bioinformatics/shiny-histogram
+[submodule "LifeSpanCurves"]
+	path = LifeSpanCurves
+	url = git@github.com:mpg-age-bioinformatics/shiny-LifeSpanCurves
+[submodule "VennDiagram"]
+	path = VennDiagram
+	url = git@github.com:mpg-age-bioinformatics/shiny-VennDiagram
