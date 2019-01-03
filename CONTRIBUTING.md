@@ -59,7 +59,7 @@ Always add a small documentation to your `ui.R` eg.:
 Notice the `htmlOutput('appversion')` paragraph which makes use of the `gitversion()` function in `server.R`:
 ```
 gitversion <- function(){ 
-  git<-read.csv("/srv/shiny-server/histogram.git/refs/heads/master", header=FALSE)
+  git<-read.csv("/srv/shiny-server/histogram/.git/refs/heads/master", header=FALSE)
   git<-git$V1
   git<-toString(git[1])
   git<-substr(git, 1, 7)
