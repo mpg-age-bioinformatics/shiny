@@ -7,3 +7,6 @@
 [submodule "VennDiagram"]
 	path = VennDiagram
 	url = git@github.com:mpg-age-bioinformatics/shiny-VennDiagram
+[submodule "cellplot"]
+	path = cellplot
+	url = git@github.com:mpg-age-bioinformatics/shiny-cellplot
