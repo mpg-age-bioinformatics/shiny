@@ -31,3 +31,6 @@
 [submodule "tsne"]
 	path = tsne
 	url = git@github.com:mpg-age-bioinformatics/shiny-tsne
+[submodule "circbarplot"]
+	path = circbarplot
+	url = git@github.com:mpg-age-bioinformatics/shiny-circbarplot.git
