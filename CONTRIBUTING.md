@@ -1,6 +1,6 @@
 # Contributing
 
-Once you have gone through all the steps in the `README.md` start by creating a repo for your app eg.: [https://github.com/mpg-age-bioinformatics/shiny-histogram](https://github.com/mpg-age-bioinformatics/shiny-histogram) (you can check the link for a full running example).
+Once you have gone through all the steps in the `README.md` start by creating a repo for your app eg.: [https://github.com/mpg-age-bioinformatics/shiny-histogram](https://github.com/mpg-age-bioinformatics/shiny-histogram) (you can check the link for a full running example). Don't forget to initiate your repo with a `README.md`.
 
 Add this app as a submodule to the `shiny` repo:
 ```bash
