@@ -1,36 +1,36 @@
 [submodule "histogram"]
 	path = histogram
-	url = git@github.com:mpg-age-bioinformatics/shiny-histogram
+	url = https://github.com/mpg-age-bioinformatics/shiny-histogram
 [submodule "LifeSpanCurves"]
 	path = LifeSpanCurves
-	url = git@github.com:mpg-age-bioinformatics/shiny-LifeSpanCurves
+	url = https://github.com/mpg-age-bioinformatics/shiny-LifeSpanCurves
 [submodule "VennDiagram"]
 	path = VennDiagram
-	url = git@github.com:mpg-age-bioinformatics/shiny-VennDiagram
+	url = https://github.com/mpg-age-bioinformatics/shiny-VennDiagram
 [submodule "cellplot"]
 	path = cellplot
-	url = git@github.com:mpg-age-bioinformatics/shiny-cellplot
+	url = https://github.com/mpg-age-bioinformatics/shiny-cellplot
 [submodule "david"]
 	path = david
-	url = git@github.com:mpg-age-bioinformatics/shiny-david
+	url = https://github.com/mpg-age-bioinformatics/shiny-david
 [submodule "dendogram"]
 	path = dendogram
-	url = git@github.com:mpg-age-bioinformatics/shiny-dendogram
+	url = https://github.com/mpg-age-bioinformatics/shiny-dendogram
 [submodule "heatmap"]
 	path = heatmap
-	url = git@github.com:mpg-age-bioinformatics/shiny-heatmap
+	url = https://github.com/mpg-age-bioinformatics/shiny-heatmap
 [submodule "mds"]
 	path = mds
-	url = git@github.com:mpg-age-bioinformatics/shiny-mds
+	url = https://github.com/mpg-age-bioinformatics/shiny-mds
 [submodule "pca"]
 	path = pca
-	url = git@github.com:mpg-age-bioinformatics/shiny-pca
+	url = https://github.com/mpg-age-bioinformatics/shiny-pca
 [submodule "scatterplot"]
 	path = scatterplot
-	url = git@github.com:mpg-age-bioinformatics/shiny-scatterplot
+	url = https://github.com/mpg-age-bioinformatics/shiny-scatterplot
 [submodule "tsne"]
 	path = tsne
-	url = git@github.com:mpg-age-bioinformatics/shiny-tsne
+	url = https://github.com/mpg-age-bioinformatics/shiny-tsne
 [submodule "circbarplot"]
 	path = circbarplot
-	url = git@github.com:mpg-age-bioinformatics/shiny-circbarplot.git
+	url = https://github.com/mpg-age-bioinformatics/shiny-circbarplot.git
