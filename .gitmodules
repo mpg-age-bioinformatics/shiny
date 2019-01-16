@@ -34,3 +34,6 @@
 [submodule "circbarplot"]
 	path = circbarplot
 	url = https://github.com/mpg-age-bioinformatics/shiny-circbarplot.git
+[submodule "violinplots"]
+	path = violinplots
+	url = git@github.com:mpg-age-bioinformatics/shiny-violinplots
