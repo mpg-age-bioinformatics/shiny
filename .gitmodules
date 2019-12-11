@@ -37,6 +37,3 @@
 [submodule "violinplots"]
 	path = violinplots
 	url = https://github.com/mpg-age-bioinformatics/shiny-violinplots
-[submodule "pathview"]
-	path = pathview
-	url = git@github.com:mpg-age-bioinformatics/shiny-pathview.git
