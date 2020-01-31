@@ -40,3 +40,4 @@
 [submodule "ms_untargetted"]
 	path = ms_untargetted
 	url = https://github.molgen.mpg.de/CEdlich/ms_untargetted.git
+	branch = master
