@@ -41,3 +41,6 @@
 	path = ms_untargetted
 	url = https://github.molgen.mpg.de/CEdlich/ms_untargetted.git
 	branch = master
+[submodule "crisprheatmap"]
+	path = crisprheatmap
+	url = git@github.molgen.mpg.de:mpg-age-bioinformatics/shiny-crisprheatmap.git
