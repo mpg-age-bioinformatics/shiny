@@ -1,6 +1,6 @@
 # Copyright (c) Bioinformatics Core Facility of the Max Planck Institute for Biology of Ageing.
 
-FROM rocker/shiny:3.4.4
+FROM rocker/shiny:3.6.1
 
 LABEL maintainer "bioinformatics@age.mpg.de"
 
@@ -8,7 +8,7 @@ RUN apt-get update
 
 RUN apt-get install -yq apt-utils libreadline-dev && \
     apt-get install -yq  liblzma-dev procps psmisc libapparmor1 \
-    libedit2 openjdk-8-jdk libbz2-dev libicu-dev
+    libedit2 openjdk-8-jdk libbz2-dev libicu-dev libclang-dev
 
 RUN cd / && \
     wget http://ftp.de.debian.org/debian/pool/main/o/openssl/libssl1.0.0_1.0.1t-1+deb8u8_amd64.deb && \
@@ -18,9 +18,9 @@ RUN cd / && \
 RUN R CMD javareconf
 
 RUN cd / && \
-    wget https://download2.rstudio.org/rstudio-server-1.1.463-amd64.deb && \
-    dpkg -i rstudio-server-1.1.463-amd64.deb && \
-    rm -rf rstudio-server-1.1.463-amd64.deb && \
+    wget https://download2.rstudio.org/server/debian9/x86_64/rstudio-server-1.2.5033-amd64.deb && \
+    dpkg -i rstudio-server-1.2.5033-amd64.deb && \
+    rm -rf rstudio-server-1.2.5033-amd64.deb && \
     echo "rsession-which-r=$(which R)" >> /etc/rstudio/rserver.conf
 
 # rstudio server port
